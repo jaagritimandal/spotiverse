@@ -29,3 +29,12 @@ Artists are represented as planets, with planet sizes reflecting listening time.
 ## Status
 
 🚧 Under active development.
+
+## Screenshots
+
+<img width="1242" height="630" alt="image" src="https://github.com/user-attachments/assets/824dd849-4dde-470d-a47f-41f6a80c1316" />
+
+<img width="1325" height="615" alt="image" src="https://github.com/user-attachments/assets/6d2e161f-994a-4ea6-9974-e2eb2edf60b5" />
+
+<img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/1995fae0-82a4-416e-b375-963e13c72adb" />
+
